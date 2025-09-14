@@ -6,7 +6,7 @@ We implemented HyBinMAS using [Ghidra](https://ghidra-sre.org/) (for decompilati
 
 
 ##  Dataset
-The original binaries (Release and Release-DWARF) used by HyBinMAS can be downloaded [here](https://drive.google.com/file/d/1MtyYN4YUWsd_BXGrbfYCDS211IqUpK7R/view?usp=sharing).
+The original binaries (Release and Release-DWARF) used by HyBinMAS can be downloaded [here](https://drive.google.com/file/d/1MtyYN4YUWsd_BXGrbfYCDS211IqUpK7R/view?usp=sharing) or [here](https://zenodo.org/records/17116383?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjllOWE3MDAzLWNiNWItNGU3NS1hYWY1LWNjMGE0ZWJiOTA4NiIsImRhdGEiOnt9LCJyYW5kb20iOiI3ZjRjN2NlN2ViZjk0NDFiN2U5OWM5MjgyMDhlNjk4OCJ9.fpMD9sXwGQsD6utlIi7SmtjtHWuJ-GB9ksG-zW0uTbrFmXSXnAg70QVWjH2Fzj64taLiJ3KoX4goy8cARKJ7iA).
 
 ## Setup
 1. use requirements.txt to install env
