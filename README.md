@@ -1,12 +1,12 @@
 # Towards Robust Function Name Recovery in Stripped Binaries: A Multi-Agent Framework with Hybrid Analysis
 This repository contains the code implementation of paper "Towards Robust Function Name Recovery in Stripped Binaries: A Multi-Agent Framework with Hybrid Analysis".
 
-We implemented SymGen using [Ghidra](https://ghidra-sre.org/) (for decompilation), [tree-sitter](https://tree-sitter.github.io/tree-sitter/) (for processing source code and decompiled code).
+We implemented HyBinMAS using [Ghidra](https://ghidra-sre.org/) (for decompilation), [tree-sitter](https://tree-sitter.github.io/tree-sitter/) (for processing source code and decompiled code).
 
 
 
 ##  Dataset
-The original binaries (Release and Release-DWARF) used by SymGen can be downloaded [here](https://zenodo.org/records/14252147).
+The original binaries (Release and Release-DWARF) used by HyBinMAS can be downloaded [here](https://drive.google.com/file/d/1MtyYN4YUWsd_BXGrbfYCDS211IqUpK7R/view?usp=sharing).
 
 ## Setup
 1. use requirements.txt to install env
